@@ -1,0 +1,60 @@
+<style>
+.container {
+  position: absolute;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 250px;
+  height: 250px;
+}
+
+.overlay {
+  position: absolute;
+  top: 50px;
+  bottom: 0;
+  left: 150px;
+  right: 0;
+  height: 250px;
+  width: 250px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #eddfce;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+  font-style: arial bold;
+  position: relative;
+  top: 120px;
+  left: 190px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+body { 
+    background-image: url("bg/bg5.jpg");
+    background-repeat: no-repeat;
+    background-size: 1366px 768px;
+    background-attachment: fixed;
+    position: fixed;
+    overflow-y: scroll;
+    width: 100%;
+
+}
+
+p {
+    color: white;
+    position: relative;
+    top: 320px;
+    left: 175px;
+
+}
+</style>
