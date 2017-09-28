@@ -46,7 +46,7 @@ p.1{
 }
 
 .text2{
-    color: grey;
+    color: black;
     font-family: "Verdana", Times, sans-serif;
     font-size: 15px;
 }
@@ -76,6 +76,7 @@ body {
     position: fixed;
     top: 325px;
     left: 157px;
+    opacity: 0.3;
 }
 
 .div2 {
@@ -90,6 +91,7 @@ body {
     position: fixed;
     top: 375px;
     left: 157px;
+    opacity: 0.3;
 }
 .div3 {
 
@@ -103,6 +105,7 @@ body {
     position: fixed;
     top: 425px;
     left: 157px;
+    opacity: 0.3;
 }
 .div4 {
 
@@ -116,6 +119,7 @@ body {
     position: fixed;
     top: 475px;
     left: 157px;
+    opacity: 0.3;
 }
 .div5 {
 
@@ -129,6 +133,7 @@ body {
     position: fixed;
     top: 540px;
     left: 157px;
+    opacity: 0.3;
 }
 
 </style>
