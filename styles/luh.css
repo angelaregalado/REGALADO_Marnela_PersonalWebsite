@@ -74,6 +74,14 @@ h3{
     left: 510px;
 }
 
+.jam{
+
+    color: #232425;
+    font-family: "Verdana", Times, sans-serif;
+    position: fixed;
+    top: 348px;
+    left: 510px;
+}
 
 .div1 {
 
@@ -175,6 +183,36 @@ h3{
     background-color: white;
     border-radius: 5px
 }
+
+.div7 {
+
+    width: 755px;
+    height:50px;
+    border-style: hidden;
+    border-color: white;
+    border-width: 5px;
+    background-color: white;
+    border-radius: 5px;
+    position: fixed;
+    top: 351px;
+    left: 500px;
+    opacity: 0.5;
+}
+
+.divbox2{
+
+    width: 735px;
+    height: 200px;
+    position: fixed;
+    top: 405px;
+    left: 490px;
+    padding: 10px;
+    margin: 10px;
+    border: hidden;
+    background-color: white;
+    border-radius: 5px
+}
+
 
 
 
