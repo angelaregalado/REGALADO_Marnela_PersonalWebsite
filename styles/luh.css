@@ -39,7 +39,7 @@
 }
 
 .text2{
-    color: black;
+    color: #232425;
     font-family: "Verdana", Times, sans-serif;
     font-size: 15px;
 }
@@ -62,9 +62,16 @@ body {
     background-attachment: fixed;
     position: fixed;
     overflow-y: scroll;
-    overflow-x: scroll;
     width: 100%;
 
+}
+
+h3{
+    color: #232425;
+    font-family: "Verdana", Times, sans-serif;
+    position: fixed;
+    top: 45px;
+    left: 510px;
 }
 
 
@@ -142,8 +149,8 @@ body {
 
 .div6 {
 
-    width: 800px;
-    height:500px;
+    width: 755px;
+    height:50px;
     border-style: hidden;
     border-color: white;
     border-width: 5px;
@@ -153,6 +160,20 @@ body {
     top: 50px;
     left: 500px;
     opacity: 0.5;
+}
+
+.divbox{
+
+    width: 735px;
+    height: 200px;
+    position: fixed;
+    top: 105px;
+    left: 490px;
+    padding: 10px;
+    margin: 10px;
+    border: hidden;
+    background-color: white;
+    border-radius: 5px
 }
 
 
