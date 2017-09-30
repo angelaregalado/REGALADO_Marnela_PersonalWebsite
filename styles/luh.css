@@ -11,6 +11,7 @@
   display: block;
   width: 250px;
   height: 250px;
+  border-radius: 100%;
 }
 
 .overlay {
@@ -24,6 +25,7 @@
   opacity: 0;
   transition: .5s ease;
   background-image: url(bg/bg.jpg);
+  border-radius: 100%;
 }
 
 .container:hover .overlay {
@@ -35,7 +37,7 @@
   font-size: 20px;
   font-family: "Verdana", Times, sans-serif;
   position: relative;
-  top: 120px;
+  top: 100px;
   left: 176px;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -46,7 +48,7 @@
     font-family: "Verdana", Times, sans-serif;
     font-size: 10px;
     position: relative;
-    top: 130px;
+    top: 110px;
     left: 145px;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
