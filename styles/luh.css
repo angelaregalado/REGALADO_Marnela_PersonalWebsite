@@ -245,7 +245,7 @@ h3{
 .divbox3{
 
     width: 735px;
-    height: 200px;
+    height: 50px;
     top: 690px;
     left: 490px;
     padding: 10px 10px 10px 10px;
@@ -256,6 +256,37 @@ h3{
     border-radius: 5px
 
 }
+
+.div9 {
+
+    width: 755px;
+    height:50px;
+    border-style: hidden;
+    border-color: white;
+    border-width: 5px;
+    background-color: white;
+    border-radius: 5px;
+    top: 785px;
+    left: 500px;
+    opacity: 0.5;
+    position: absolute;
+}
+
+.divbox4{
+
+    width: 735px;
+    height: 100px;
+    top: 835px;
+    left: 490px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+    border: hidden;
+    position: absolute;
+    background-color: white;
+    border-radius: 5px
+
+}
+
 
 p{
     color: #232425;
