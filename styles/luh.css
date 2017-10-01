@@ -54,7 +54,17 @@
     -ms-transform: translate(-50%, -50%);
 }
 
-/*---BODY----*/
+/*---BODY & STUFF----*/
+
+header{
+    background-color: black;
+    height: 20px;
+    width: 1366px;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    padding: 10px;
+}
 
 body { 
     background-image: url("bg/bg9.jpg");
@@ -62,8 +72,15 @@ body {
     background-size: 1366px 768px;
     background-attachment: fixed;
     overflow-y: scroll;
+    overflow-x: hidden;
    
 }
+
+article {
+    display: block;
+}
+
+
 
 /*---INFO---*/
 
@@ -369,7 +386,7 @@ h6{
     color: black;
     top: 3px;
     left: 500px;
-    padding: 10px 20px;
+    padding: 5px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -394,7 +411,7 @@ h6{
     color: black;
     top: 3px;
     left: 585px;
-    padding: 10px 20px;
+    padding: 5px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
