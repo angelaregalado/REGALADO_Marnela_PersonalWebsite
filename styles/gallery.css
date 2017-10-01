@@ -4,7 +4,25 @@
 /*---BODY---*/
 
 body { 
-    background-image: url('bg/bg9.jpg');
+    background-image: url('bg/bg7.jpg');
+}
+
+/*---BG---*/
+
+.boxbg{
+    background-color: white;
+    border-radius: 5px;
+    opacity: 0.6;
+    width: 1235px;
+    height: 1000px;
+    right: 30px;
+    left: 30px;
+    top: 45px;
+    bottom: 20px;
+    padding: 10px 20px;
+    margin: 10px 10px;
+    position: absolute;
+    
 }
 
 /*---GALLERY---*/
@@ -27,5 +45,9 @@ body {
     width: 100%;
     height: auto;
 }
+
+
+
+
 
 </style>
