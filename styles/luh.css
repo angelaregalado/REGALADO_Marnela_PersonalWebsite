@@ -54,6 +54,19 @@
     -ms-transform: translate(-50%, -50%);
 }
 
+.text4{
+    color: #85cdc1;
+    font-family: "Verdana", Times, sans-serif;
+    font-size: 10px;
+    position: relative;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.text4:hover{
+    color: #5fa89c;
+}
+
 /*---BODY & STUFF----*/
 
 header{
