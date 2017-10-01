@@ -73,6 +73,7 @@ body {
     background-attachment: fixed;
     overflow-y: scroll;
     overflow-x: hidden;
+    padding-bottom: 100px;
    
 }
 
@@ -80,7 +81,14 @@ article {
     display: block;
 }
 
-
+footer {
+ position:fixed;
+ bottom:0;
+ left:0;
+ background-color: white;
+ width: 1366px;
+ margin-top: 30px;
+}
 
 /*---INFO---*/
 
@@ -293,10 +301,10 @@ h3{
 
     width: 735px;
     height: 330px;
-    top: 885px;
-    left: 490px;
+    top: 850px;
+    left: 450px;
     padding: 10px 10px 10px 10px;
-    margin: 10px;
+    margin: 50px;
     border: hidden;
     position: absolute;
     background-color: white;
@@ -385,7 +393,7 @@ h6{
     border: none;
     color: black;
     top: 3px;
-    left: 500px;
+    left: 590px;
     padding: 5px 20px;
     text-align: center;
     text-decoration: none;
@@ -410,7 +418,7 @@ h6{
     border: none;
     color: black;
     top: 3px;
-    left: 585px;
+    left: 675px;
     padding: 5px 20px;
     text-align: center;
     text-decoration: none;
