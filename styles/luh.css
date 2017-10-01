@@ -29,7 +29,7 @@
 }
 
 .container:hover .overlay {
-  opacity: 0.7;
+  opacity: 0.9;
 }
 
 .text {
@@ -77,7 +77,7 @@ body {
     position: absolute;
     background-color: white;
     top: 300px;
-    left: 123px;
+    left: 130px;
     opacity: 0.8;
     border-radius: 5px
 
@@ -93,7 +93,7 @@ body {
     position: absolute;
     background-color: white;
     top: 510px;
-    left: 123px;
+    left: 130px;
     opacity: 0.8;
     border-radius: 5px
 
@@ -109,7 +109,7 @@ body {
     position: absolute;
     background-color: white;
     top: 370px;
-    left: 123px;
+    left: 130px;
     opacity: 0.8;
     border-radius: 5px
 
@@ -125,7 +125,7 @@ body {
     position: absolute;
     background-color: white;
     top: 590px;
-    left: 123px;
+    left: 130px;
     opacity: 0.8;
     border-radius: 5px
 
@@ -142,7 +142,7 @@ body {
     position: absolute;
     background-color: white;
     top: 440px;
-    left: 123px;
+    left: 130px;
     opacity: 0.8;
     border-radius: 5px
 
@@ -341,6 +341,14 @@ p{
     font-family: "Verdana", Times, sans-serif; 
 }
 
+.button4:hover {
+    background-color: #232425;
+    color: white;
+    transition: .2s ease;
+}
+
+
+
 .button5 {
 
     background-color: white;
@@ -356,6 +364,12 @@ p{
     border-radius: 10px;
     font-size: 13px;
     font-family: "Verdana", Times, sans-serif; 
+}
+
+.button5:hover {
+    background-color: #232425;
+    color: white;
+    transition: .2s ease;
 }
 
 

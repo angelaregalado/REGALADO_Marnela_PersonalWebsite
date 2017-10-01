@@ -1,35 +1,31 @@
+
 <style>
 
-/*---BODY----*/
+/*---BODY---*/
 
 body { 
-    background-image: url("bg/bg9.jpg");
-    background-repeat: no-repeat;
-    background-size: 1366px 768px;
-    background-attachment: fixed;
-    overflow-y: scroll;
-   
+    background-image: url('bg/bg9.jpg');
 }
 
-div.gallery {
+/*---GALLERY---*/
+
+.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
+    position: absolute;
+    top: 150px;
+    left: 300px;
 }
 
-div.gallery:hover {
+.gallery:hover {
     border: 1px solid #777;
 }
 
-div.gallery img {
+.gallery img {
     width: 100%;
     height: auto;
-}
-
-div.desc {
-    padding: 15px;
-    text-align: center;
 }
 
 </style>
