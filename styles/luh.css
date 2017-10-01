@@ -82,12 +82,9 @@ article {
 }
 
 footer {
- position:fixed;
- bottom:0;
- left:0;
- background-color: white;
- width: 1366px;
- margin-top: 30px;
+    position: absolute;
+    bottom: -768px;
+    left: 0px;
 }
 
 /*---INFO---*/
@@ -318,6 +315,13 @@ p{
     font-family: "Verdana", Times, sans-serif;
     font-size: 13px;
     padding-left: : 20px;
+}
+
+p.foot{
+  color: white;
+  font-family: "Verdana", Times, sans-serif;
+  font-size: 13px;
+  padding-left: 10px;
 }
 
 
