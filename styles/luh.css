@@ -457,6 +457,23 @@ h6{
     transition: .2s ease;
 }
 
+/*---BORDER FOR STUFF---*/
+
+div.borders{
+
+    border-style: dotted;
+    border: 1px solid black;
+
+}
+
+.borders1{
+    top: 250px;
+    left: 200px;
+    padding: 10px;
+    margin: 5px;
+
+}
+
 
 
 </style>
