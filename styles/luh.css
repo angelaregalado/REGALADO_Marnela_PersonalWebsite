@@ -249,13 +249,13 @@ h3{
     height: 320px;
     top: 395px;
     left: 490px;
-    padding: 10px 10px 10px 10px;
+    padding: 10px 10px;
     margin: 10px;
     border: hidden;
     position: absolute;
     background-color: white;
-    border-radius: 5px
-
+    border-radius: 5px;
+    padding-top: 5px;
 }
 
 .div8 {
@@ -267,7 +267,7 @@ h3{
     border-width: 5px;
     background-color: white;
     border-radius: 5px;
-    top: 760px;
+    top: 755px;
     left: 500px;
     opacity: 0.5;
     position: absolute;
@@ -277,7 +277,7 @@ h3{
 
     width: 735px;
     height: 50px;
-    top: 810px;
+    top: 805px;
     left: 490px;
     padding: 10px 10px 10px 10px;
     margin: 10px;
@@ -297,7 +297,7 @@ h3{
     border-width: 5px;
     background-color: white;
     border-radius: 5px;
-    top: 855px;
+    top: 900px;
     left: 500px;
     opacity: 0.5;
     position: absolute;
@@ -307,7 +307,7 @@ h3{
 
     width: 735px;
     height: 330px;
-    top: 865px;
+    top: 910px;
     left: 450px;
     padding: 10px 10px 10px 10px;
     margin: 50px;
@@ -465,18 +465,8 @@ div.borders{
     border: 1px solid black;
     margin-top: 10px;
     margin-bottom: 5px;
+    border-radius: 5px;
 
 }
-
-.borders1{
-    top: 250px;
-    left: 200px;
-    padding: 10px;
-    padding-top: 5px;
-    margin: 5px;
-
-}
-
-
 
 </style>
