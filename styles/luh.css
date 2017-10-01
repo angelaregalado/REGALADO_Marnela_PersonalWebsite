@@ -317,11 +317,12 @@ p{
     color: #232425;
     font-family: "Verdana", Times, sans-serif;
     font-size: 13px;
+    padding-left: : 20px;
 }
 
 
 h6{
-    color: #232425;
+    color: #85cdc1;
     font-family: "Verdana", Times, sans-serif;
 }
 
