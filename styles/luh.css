@@ -91,7 +91,7 @@ article {
 
 footer {
     position: absolute;
-    bottom: -768px;
+    bottom: -980px;
     left: 0px;
 }
 
@@ -306,7 +306,7 @@ h3{
 .divbox4{
 
     width: 735px;
-    height: 330px;
+    height: 470px;
     top: 910px;
     left: 450px;
     padding: 10px 10px 10px 10px;
@@ -461,8 +461,7 @@ h6{
 
 div.borders{
 
-    border-style: dotted;
-    border: 1px solid black;
+    border: 1px dotted black;
     margin-top: 10px;
     margin-bottom: 5px;
     border-radius: 5px;
