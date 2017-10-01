@@ -353,12 +353,14 @@ h6{
     background-repeat: no-repeat;
     top: 150px;
     left: 50px;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition:         transform .8s ease-in-out;
 }
 
 .button:hover {
     background-image: url("bg/fb.jpg"); ;
-    transform: scale(1.2);
-    transition: .4s ease;
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
 
 .button2 {
@@ -373,12 +375,14 @@ h6{
     background-repeat: no-repeat;
     top: 220px;
     left: 50px;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition:         transform .8s ease-in-out;
 }
 
 .button2:hover {
     background-image: url("bg/da.jpg"); ;
-    transform: scale(1.2);
-    transition: .4s ease;
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
 
 .button3 {
@@ -393,12 +397,14 @@ h6{
     background-repeat: no-repeat;
     top: 290px;
     left: 50px;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition:         transform .8s ease-in-out;
 }
 
 .button3:hover {
     background-image: url("bg/twit.jpg"); ;
-    transform: scale(1.2);
-    transition: .4s ease;
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
 
 /*---BUTTONS FOR NAV---*/
