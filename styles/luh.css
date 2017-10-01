@@ -215,7 +215,7 @@ h3{
 .divbox2{
 
     width: 735px;
-    height: 200px;
+    height: 250px;
     top: 395px;
     left: 490px;
     padding: 10px 10px 10px 10px;
@@ -236,7 +236,7 @@ h3{
     border-width: 5px;
     background-color: white;
     border-radius: 5px;
-    top: 640px;
+    top: 690px;
     left: 500px;
     opacity: 0.5;
     position: absolute;
@@ -246,7 +246,7 @@ h3{
 
     width: 735px;
     height: 50px;
-    top: 690px;
+    top: 740px;
     left: 490px;
     padding: 10px 10px 10px 10px;
     margin: 10px;
@@ -266,7 +266,7 @@ h3{
     border-width: 5px;
     background-color: white;
     border-radius: 5px;
-    top: 785px;
+    top: 835px;
     left: 500px;
     opacity: 0.5;
     position: absolute;
@@ -276,7 +276,7 @@ h3{
 
     width: 735px;
     height: 100px;
-    top: 835px;
+    top: 885px;
     left: 490px;
     padding: 10px 10px 10px 10px;
     margin: 10px;
@@ -295,7 +295,7 @@ p{
 }
 
 
-h4{
+h6{
     color: #232425;
     font-family: "Verdana", Times, sans-serif;
 }
